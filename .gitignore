@@ -1,0 +1,27 @@
+# Docker volumes（データベース、Redis等のデータ）
+volumes/
+
+# 環境変数（機密情報）
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
