@@ -1,6 +1,7 @@
 # Docker volumes（データベース、Redis等のデータ）
 volumes/
 claude_output
+claude_output/*
 # 環境変数（機密情報）
 .env
 *.env
