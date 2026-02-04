@@ -1,5 +1,5 @@
 # claude_output
-claude_output/
+claude_output/*
 
 # Docker volumes（データベース、Redis等のデータ）
 volumes/
